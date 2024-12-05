@@ -1,0 +1,38 @@
+.page-header {
+  font-weight: bold;
+  font-size: 36px;
+  text-align: center;
+  color: rgb(132, 132, 118);
+  background-color: bisque;
+  font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#recipe-image {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.recipe-description-text {
+  font-weight: bold;
+  font-size: 24px;
+  color: rgb(137, 119, 57);
+  font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+.recipe-summary {
+  font-size: 20px;
+  color: rgb(132, 132, 118);
+  font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+li {
+  font-size: 22px;
+  color: rgb(132, 132, 118);
+  font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+h3 {
+  color: rgb(134, 103, 44);
+  font-family: Verdana, "DejaVu Sans", sans-serif;
+}
